@@ -25,7 +25,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-+snzTV4Vu1zUgZcF0P57ejOsjSCi1KbWT7pmMi6LL0U=",
+      "hash": "sha256-Uodht4yY5mwYrgTBo4c2m39QISE\/CIxe3fqNXQb48Mo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -33,11 +33,11 @@
       "url": "_framework\/dotnet.native.8.0.0.6jc5zluqeu.js"
     },
     {
-      "hash": "sha256-6SboE97kl0oSE87mWtVRqVYCFpTdDkT00BMDELBXuig=",
+      "hash": "sha256-\/0SeD68oOYPWacUyDjNWe0c9H\/rL4NL7VsQ58nzn5ok=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
-      "hash": "sha256-I3W3SCBWWepO505fQ4JyZ2\/Lx2zVIlJzo+708qgrnm0=",
+      "hash": "sha256-REo\/e5VACI9PQtc7tg+3PoGVo3YEOt6wKZOEEo2A+B4=",
       "url": "_framework\/BlazorLineFilter.wasm"
     },
     {
@@ -73,7 +73,7 @@
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.wasm"
     },
     {
-      "hash": "sha256-+Fgk2a7GOZ76M3YfJ+0IDUowOMx8\/LBnDwuIKQr+\/IA=",
+      "hash": "sha256-N6zeHTckzCx+QT5rNvr0QoQMqzgTKjiDGdkjHJRuEeE=",
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
@@ -101,7 +101,7 @@
       "url": "_framework\/System.Collections.Concurrent.wasm"
     },
     {
-      "hash": "sha256-kZhmlO6I6g6LjU0\/hViIkXUGrxnIsQegiVuwvHlEJBg=",
+      "hash": "sha256-At+zC8Yky7ODdUOl7TOgtaNL8Mq3CVTkbSOPWqTxedI=",
       "url": "_framework\/System.Collections.wasm"
     },
     {
@@ -113,7 +113,7 @@
       "url": "_framework\/System.Console.wasm"
     },
     {
-      "hash": "sha256-M2uFj84lPUCYrPyFKi+Hk95Z9b2CaMlC23I3CLsMWA0=",
+      "hash": "sha256-W\/4yYM+qm8FDafBuyM1viNlv797YJ0IujmYb\/NKBmNY=",
       "url": "_framework\/System.Linq.wasm"
     },
     {
@@ -185,7 +185,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-rdo\/8BUFAQTD2Mb\/X53vzBDHi6WnwrP4agf+XkhyVc4=",
+      "hash": "sha256-Be8Ywst2D1AVE1RB3Xnv2L6KJEoSd9KhFi7E7wR+dqE=",
       "url": "index.html"
     },
     {
@@ -193,5 +193,5 @@
       "url": "manifest.webmanifest"
     }
   ],
-  "version": "n3K41A6O"
+  "version": "xAAGVxcZ"
 };
